@@ -1,5 +1,7 @@
 # FLOCKIFINANCE
-https://drive.google.com/file/d/1O7tEJ_lD0blVASnIqKs9hGG7Ua73w78Z/view?usp=sharing
+
+![Flocki logo](https://user-images.githubusercontent.com/90779430/139246732-f371e607-e6a2-4303-8c88-4abc6277dab2.png)
+
 
 The next revolutionary token coming with many different things. Launching with NFT Artist and NFT Marketplace, where you can mint and sell NFT.
 
